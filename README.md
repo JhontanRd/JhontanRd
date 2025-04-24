@@ -29,12 +29,12 @@ Hi, I am Jhonatan 😊! I'm from Brazil and an Information Systems student. 💻
 <p align = "left">
     <img
         alt = "Git Hub Status"
-        height = 200
+        height = 180
         src="https://github-readme-stats.vercel.app/api?username=JhontanRd&show_icons=true&theme=highcontrast&include_all_commits=true&"
     />
     <img
         alt = "GIT"
-        height = 200
+        height = 180
         style = "padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhontanRd&theme=highcontrast&layout=compact&custom_title=Technologies&langs_count=7"
     />
