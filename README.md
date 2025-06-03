@@ -30,7 +30,7 @@ Hi, I am Jhonatan 😊! I'm from Brazil and an Information Systems student. 💻
     <img
         alt = "Git Hub Status"
         height = 180
-        src="https://github-readme-stats.vercel.app/api?username=JhontanRd&show_icons=true&theme=highcontrast&include_all_commits=true&"
+        src="https://github-readme-stats.vercel.app/api?username=JhontanRd&show_icons=true&theme=highcontrast&include_all_commits=true"
     />
     <img
         alt = "GIT"
