@@ -1,6 +1,5 @@
-# 👨🏼‍🎓 Hi, I am Jhonatan
+# 👨🏼‍🎓 Jhonatan Rodrigues
 
-**📘 I'm from Brazil and an Information Systems student.**<br>
 **🎓 Graduate in Systems Analysis and Development**
 
 
@@ -111,8 +110,9 @@
 
 ### 🔗 Projects
 
-- **[C# - Payroll control system.](https://github.com/JhontanRd/PersonalDynamicPIM)**
+- **[C# - Exam Automation System](https://github.com/JhontanRd/Questions_Project)**
 - **[C# - Emergy calculator for electronic components.](https://github.com/JhonaattanDevBr/APS_3_Semestre_Emergia_Componentes_Eletronicos)**
+- **[C# - Payroll control system.](https://github.com/JhontanRd/PersonalDynamicPIM)**
 
 ---
 
@@ -120,4 +120,3 @@
 
 - 💻 Back-End and Desktop Developer
 - 🧩 Studying object-oriented programming and APIs with C#
-- 🐍 Studying Python.
