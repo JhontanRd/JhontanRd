@@ -114,4 +114,4 @@
 ### 📍 More about Me
 
 - 💻 Back-End and Desktop Developer
-- 🧩 Studying object-oriented programming and APIs with C#
+- 🧩 Currently learning Web Development with ASP.NET.
