@@ -1,23 +1,16 @@
 # 👨🏼‍🎓 Jhonatan Rodrigues
 
-**🎓 Graduate in Systems Analysis and Development**
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhontanRd&theme=transparent)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JhontanRd&theme=transparent)
+
+---
+
+## **🎓 Graduate in Systems Analysis and Development <br> 🚀 Currently pursuing a Post-graduation in .NET Systems Architecture**
 
 
-<p align = "left">
-    <img
-        alt = "Git Hub Status"
-        height = 160
-        src="https://github-readme-stats.vercel.app/api?username=JhontanRd&show_icons=true&theme=highcontrast&include_all_commits=true&"
-    />
-    <img
-        alt = "GIT"
-        height = 160
-        style = "padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhontanRd&theme=highcontrast&layout=compact&custom_title=Technologies&langs_count=7"
-    />
-</p>
-
-<p align= "left"> Technologies &nbsp;
+<h3 align = "left">🔧 Technologies</h3>
+<p align= "left">
     <img 
         alt = "Logo C#"
         title = "C#"
@@ -90,8 +83,12 @@
     />
 </p>
 
-<p> Contacts &nbsp;
-    <a href= "https://www.linkedin.com/in/jhonatanrodriguesol/">
+---
+
+
+<h3>📩 Contacts</h3>
+<p>
+    <a href= "https://www.linkedin.com/in/jhonatanrodriguesol">
         <img
             title = "My LinkedIn profile"
             style = "padding-right: 10px;"
