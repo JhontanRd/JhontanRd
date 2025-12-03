@@ -2,8 +2,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhontanRd&theme=transparent)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JhontanRd&theme=transparent)
-
 ---
 
 ## **🎓 Graduate in Systems Analysis and Development <br> 🚀 Currently pursuing a Post-graduation in .NET Systems Architecture**
